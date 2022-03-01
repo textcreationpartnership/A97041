@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of Sir William Wallers letter, &amp;c. A great victorie obtained by Sir Wjlljam Waller, and Lievtenant-Generall Cromvvell, against Colonell Sir James Long, (High Sheriffe of Wiltshire) who was driven from the Devizes, and his whole regiment taken, being the same horse that conducted the Prince from Oxford to Bristoll. Where were taken Colonell Long, the high Sheriffe. The Under-Sheriffe. Eight captains. Seven cornets. [double brace] Foure hundred horse. Three hundred forty armes. Three hundred prisoners. Goring pursued by Sir VVilliam VValler. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97041</idno>
+            <idno type="STC">Wing W541</idno>
+            <idno type="STC">Thomason E274_4</idno>
+            <idno type="STC">ESTC R210074</idno>
+            <idno type="EEBO-CITATION">99868905</idno>
+            <idno type="PROQUEST">99868905</idno>
+            <idno type="VID">159486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159486)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of Sir William Wallers letter, &amp;c. A great victorie obtained by Sir Wjlljam Waller, and Lievtenant-Generall Cromvvell, against Colonell Sir James Long, (High Sheriffe of Wiltshire) who was driven from the Devizes, and his whole regiment taken, being the same horse that conducted the Prince from Oxford to Bristoll. Where were taken Colonell Long, the high Sheriffe. The Under-Sheriffe. Eight captains. Seven cornets. [double brace] Foure hundred horse. Three hundred forty armes. Three hundred prisoners. Goring pursued by Sir VVilliam VValler. Published according to order.</title>
+                  <author>Waller, William, Sir, 1597?-1668.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Austin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March: 18th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159486:1" rendition="simple:additions"/>
+            <p>A Copie of Sir <hi>William Wallers</hi> Letter, &amp;c.</p>
+            <p>A GREAT VICTORIE, OBTAINED BY Sir <hi>WILLIAM WALLER,</hi> AND Lievtenant-Generall CROMVVELL, <hi>AGAINST</hi> Colonell Sir <hi>James Long,</hi> (High-Sheriffe of Wiltſhire) who was driven from the Devizes, and his whole Regi<g ref="char:EOLhyphen"/>ment taken, being the ſame Horſe that conducted the Prince from Oxford to Briſtoll, Where were taken
+<list>
+                  <item>Colonell <hi>Long,</hi> the high Sheriffe.</item>
+                  <item>The Under-Sheriffe.</item>
+                  <item>Eight Captains.</item>
+                  <item>Seven Cornets.</item>
+                  <item>Foure hundred Horſe.</item>
+                  <item>Three hundred forty Armes.</item>
+                  <item>Three hundred priſoners.</item>
+                  <item>
+                     <hi>Goring</hi> purſued by Sir <hi>VVil<g ref="char:EOLhyphen"/>liam VValler.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <add>march .18<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>Robert Auſtin. 1645.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159486:2"/>
+            <pb n="1" facs="tcp:159486:2"/>
+            <head>A great Victory obtained by Sir <hi>William Waller,</hi> and Lievtenant-General <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> againſt Col. <hi>Long,</hi> &amp;c.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince Colonell LONG was returned from conveighing the Prince, with the Biſhop of Armach, and divers of the Oxford Nobility, to Briſtoll, we had intelligence, that he was coming towards the Devizes, having a gallant Regiment of Horſe, conſiſting of about 400. men, hereupon Sir WILLIAM WALLER en<g ref="char:EOLhyphen"/>deavoured to get betwixt him and the town; but having a long march, he got to the Devizes, be<g ref="char:EOLhyphen"/>fore Sir WILLIAM approached, and was quar<g ref="char:EOLhyphen"/>tered there, with Colonel Sir CHARLES LLOYD, the Governour thereof, for about two dayes, by which time Sir WILLIAM WALLER made his approach. On Munday the 10. of this preſent March, he quartered with his whole Army at
+<pb n="2" facs="tcp:159486:3"/> Almesbury, Normanton, Lake, Dearne, and Derringron, and that very a ſtrong partie was commanded forth, out of which were drawne divers Scouts, which were ſent to<g ref="char:EOLhyphen"/>wards the Devizes, Stepſtone, and other parts, to diſco<g ref="char:EOLhyphen"/>ver the Enemy, and what ſtrength they were of, ſome whereof returned in the evening with Intelligence, That Colonell <hi>Long</hi> was in the Devizes, with a <hi>Poſſe Comitatus,</hi> or the Countie Forces, for this <hi>Long</hi> is the Kings high Sheriffe of the County of Wilts, ſonne to Sir <hi>Walter Long</hi> who lately deceaſed, who being in drinke, fell from his horſe neare Chichiſter, and broke his necke, and his ſon hath beene a very active man againſt the Parliament, ever ſince he hath begged his Wardſhip, which put him to much travell and paines, for which he almoſt ſpurred the horſe to death that had broke his fathers neck; for he had vowed before he came off his back to get his Wardſhip.</p>
+            <p>This Intelligence cauſed Sir <hi>William</hi> to advance to<g ref="char:EOLhyphen"/>wards the Devizes that night, having alſo advertiſement, that the enemies Workes about the town were very ſlight, and when his Army were on their march about a mile from Amsbury, he drew them up into a Body, and foure out of every Troop, to go on the Forlorne Hope.</p>
+            <p>On Tueſday morning very early, our Forlorne Hope gave the Enemy an Alarum (the whole Army marching all night) upon which all Colonell <hi>Longs</hi> Regiment, which were quartered in and neare the Devizes, drew into a Bo<g ref="char:EOLhyphen"/>dy, and newes being brought thereof to Sir <hi>William,</hi> hee made ſome ſtay, and at the firſt ſeemed rather to prepare for defence, then to give an aſſault, and divides his Horſe into three Brigades, the firſt commanded by himſelf, quar<g ref="char:EOLhyphen"/>tered neare Potterne, Woodington, and the Devizes, the next Brigade was commanded by Lievtenant-Generall
+<pb n="3" facs="tcp:159486:3"/> 
+               <hi>Gromwell,</hi> and the third by Sir <hi>Hadzer VValler</hi> a kinſman of Sir <hi>VVilliams,</hi> which Brigade joyned together, and wheeled about and fetcht a large compaſſe, that they might not be diſcovered by the enemy, and fell in between them and the Bath.</p>
+            <p>On Wedneſday morning, Sir <hi>VVilliam Waller</hi> drew up his Forces to fall upon the enemy, and they having diſco<g ref="char:EOLhyphen"/>vered that Sir <hi>William</hi> had a purpoſe to give them a viſit, Colonell <hi>Long</hi> with the horſe left the Devizes, and re<g ref="char:EOLhyphen"/>treated towards Bath, not having notice of Generall <hi>Crom<g ref="char:EOLhyphen"/>wells</hi> readineſſe on that ſide to receive them, and Sir <hi>Charles Lloyd</hi> the Governour of the Devizes, with moſt of the Foot ſlighted their Workes, and retreated into the Caſtle, thinking that they were not able to defend the Towne: Sir <hi>William</hi> hearing that Colonell <hi>Long</hi> was marching a<g ref="char:EOLhyphen"/>way, he purſued him very cloſe in the Reare, and when the Enemy were a little paſt Milchin, thinking by the ſwiftneſſe of their march to make their eſcape away.</p>
+            <p>Colonell Cromwell appeared in the Van, be<g ref="char:EOLhyphen"/>twixt him and Bradford, which having notice of colonell Long, would have returned backe a<g ref="char:EOLhyphen"/>gaine, but could make no way of eſcape, the paſ<g ref="char:EOLhyphen"/>ſes being narrow, and the countrey ſo ſortified with quick ſet hedges, that he was as it were in a pound.</p>
+            <p>VVe took from the Enemy 400. Horſe, and 300. Priſoners: we tooke colonell Long him<g ref="char:EOLhyphen"/>ſelf the Kings high Sheriffe, their Commander
+<pb n="4" facs="tcp:159486:4"/> in chiefe, Captain Web, and ſeven Captaines more, the Under-Sheriffe, ſeven Comets, with many other Officers. We took alſo 340. Armes; and of this whole Regiment, which was the beſt (as we underſtand) the King hath, there eſcaped but 30. we loſt but two men on our ſide, and but foure of the Enemy were killed.</p>
+            <p>Colonell Ludlow is now (thanks be to God) ſole high Sheriffe of this County: his competi<g ref="char:EOLhyphen"/>tor (being now taken priſoner) is <hi>in cuſtodia Mariſ<g ref="char:EOLhyphen"/>callorum,</hi> with the greateſt part of his Comman<g ref="char:EOLhyphen"/>ders and Officers, and his whole Regiment ut<g ref="char:EOLhyphen"/>terly extirpate.</p>
+            <p>Colonell Ludlowes approach hither is now moſt earneſtly deſired to joyn with us, in regard this County, in which we hope there will be found but little oppoſition, though we have been lately heavy laden with infinite numbers of bar<g ref="char:EOLhyphen"/>barous villains. To God be the praiſe, who hath ſo graciouſly looked upon our ſufferings.</p>
+            <p>The Garriſon of Langford hearing of ſo many loſſes to the Kings Army, in ſeverall places, one upon the necke of another, are in great diſtraction, and almoſt hopeleſſe of ſubſiſting, having not above ſixteen Horſe, and they are very poore jades, to fetch in proviſions, of which it is conceived, they begin to be ſtreightned: and for their
+<pb n="5" facs="tcp:159486:4"/> men, they are moſt of them forced, of which (we hope) there will ſhortly be given a very good account.</p>
+            <p>We heare Colonell <hi>Goring</hi> doth ſtill retreat before us: it is thought he intends to joyne with Colonell <hi>Barkly</hi> the Governour of Exceſter; and Sir <hi>William Waller</hi> is mar<g ref="char:EOLhyphen"/>ching towards Colonell <hi>Holborne</hi> at Ta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nton, and intends to draw out what ſtrength he can out of Sommer ſet ſhire to joynt with him, and ſo to looſe no time to purſue after. So with my due reſpects and humble ſervice, I reſt,</p>
+            <closer>
+               <dateline>Southampton <date>March 14. 1644.</date>
+               </dateline>
+               <signed>Your faithfull and affectionate Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Here followeth a Copie of Sir William Wallers owne Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>COlonell Cooke and Captaine Butler have written at large unto you, and therefore I ſhall onely confirme it, that with Gods gracious aſsiſtance we have routed the beſt Regiment the King had in the Weſt, of foure hundred Horſe; there eſcaped not thirty, the Colonell, Sir James Long, eight Captaines, and ſeven Cornets were taken, and moſt of the other Officers, with about
+<pb n="6" facs="tcp:159486:5"/> three hundred priſoners. This fell out in Wilt<g ref="char:EOLhyphen"/>ſhire, between Troughbridge and Stepſton. We are now marching towards honeſt Holborne, with wnom (by the grace of God) we will joyn, or ſtick half way.</p>
+            <closer>
+               <dateline>
+                  <date>March 13. 1644.</date>
+               </dateline>
+               <signed>William Waller.</signed>
+            </closer>
+            <postscript>
+               <list>
+                  <head>A liſt of what was taken.</head>
+                  <item>Col. Sir <hi>James Long</hi>the high Sheriffe</item>
+                  <item>The Under Sheriff</item>
+                  <item>8. Captaines</item>
+                  <item>7. Cornets</item>
+                  <item>400. Horſe</item>
+                  <item>340. Armes</item>
+                  <item>300. Priſoners.</item>
+                  <item>
+                     <hi>Goring</hi> purſued by Sir <hi>W. Waller.</hi>
+                  </item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
